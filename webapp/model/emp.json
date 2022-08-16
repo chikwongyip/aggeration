@@ -1,0 +1,26 @@
+{
+
+	"data": [{
+		"department": "HR",
+		"employees": [{
+			"name": "Mayer2"
+		}, {
+			"name": "zhangsan2"
+		}, {
+			"name": "lisi2"
+		}, {
+			"name": "wangxiaoer2"
+		}]
+	}, {
+		"department": "Support",
+		"employees": [{
+			"name": "Mayer1"
+		}, {
+			"name": "zhangsan1"
+		}, {
+			"name": "lisi1"
+		}, {
+			"name": "wangxiaoer1"
+		}]
+	}]
+}

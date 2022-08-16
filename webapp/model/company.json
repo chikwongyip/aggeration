@@ -1,0 +1,18 @@
+{
+	"companies": [{
+		"name": "IBM",
+		"city": "beijing"
+	}, {
+		"name": "SAP",
+		"city": "shanghai"
+	}, {
+		"name": "PWC",
+		"city": "hefei"
+	}, {
+		"name": "Dillot",
+		"city": "shanghai"
+	}, {
+		"name": "Dillot1",
+		"city": "shanghai"
+	}]
+}

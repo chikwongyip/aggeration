@@ -1,0 +1,21 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="arggerationModel.controller.ElementBind">
+	<App>
+		<pages>
+			<Page title="Title">
+				<content>
+				    <ComboBox items="{/data}" id="__box0" selectionChange="onSelectionChange">
+				        <items>
+				            <core:ListItem text="{department}" key="item1" id="__item0"/>
+			            </items>
+				    </ComboBox>
+				    <List noDataText="Drop list items here" id="__list1" items="{employees}">
+				        <items>
+				            <StandardListItem type="Navigation" title="{name}"  icon="sap-icon://picture" id="__item3"/>
+				           
+			            </items>
+				    </List>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
